@@ -3,7 +3,7 @@
 
 |编程 | 爬虫 |   数据库    | 数据分析 | 区块链 | 博客 |... | 小工具 |
 |:---------:|:---------:| :---------: | :---------: |:---------:| :---------: | :---------: | :---------: |
-| [:pencil:](#pencil-编程)|[:spider:](#spider-爬虫)| [:notebook_with_decorative_cover:](#notebook_with_decorative_cover-数据库)| [:bar_chart:](#bar_chart-数据分析) | [:ledger:](#ledger-区块链) |[:notebook:](#notebook-博客)| [:star:](#star-...) | [:key:](#key-小工具) |
+| [:pencil:](#pencil-编程)|[:spider:](#spider-爬虫)| [:notebook_with_decorative_cover:](#notebook_with_decorative_cover-数据库)| [:bar_chart:](#bar_chart-数据分析) | [:ledger:](#ledger-区块链) |[:notebook:](#notebook-博客)| [:star:](#star-) | [:key:](#key-小工具) |
 
 
 
