@@ -54,8 +54,8 @@
 
 - [英文图书下载 Library genesis](http://gen.lib.rus.ec/)
 - [中文图书下载  鸠摩搜索](https://www.jiumodiary.com/)
-- [画流程图](www.draw.io)
+- [画流程图](http://www.draw.io) 
 
-- [制作logo](www.logomakr.com)
+- [制作logo](http://www.logomakr.com)
 
 - [压缩图片](https://squoosh.app/)
