@@ -1,4 +1,4 @@
-# Resources Center 
+# Resources 
 
 
 |编程 | 爬虫 |   数据库    | 数据分析 | 区块链 | 博客 |... | 小工具 |
